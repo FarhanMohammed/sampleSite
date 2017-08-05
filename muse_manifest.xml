@@ -1,0 +1,51 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sampleSite.com" resolutions="1x,2x" timestamp="1501905636276">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4035778900" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3980981678" ref="index"/>
+    <file name="index.css" crc="4078654202" ref="index"/>
+    <file name="nomq_index.css" crc="199282906" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4216313831" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4177022356" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="webpro.js" crc="4143865194" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="urbex-black.png" crc="27490158" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="urbex-black_2x.png" crc="4142474436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="hero-banner.jpg" crc="4238764935" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hero-banner-u2256-fr.jpg" crc="4057055524" ref="index"/>
+    <file name="hero-banner-u2256-fr_2x.jpg" crc="3980403709" ref="index"/>
+    <file name="urbex-black69x32.png" crc="267457970" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="urbex-black69x32_2x.png" crc="530856360" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4175039081" seo="true" mt="1491081125353" redirect="true"/>
+</manifest>
